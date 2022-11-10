@@ -1,0 +1,17 @@
+body{
+    margin: 0
+}
+
+main{
+    width: 100vw; /* vw = viewport width */
+    height: 100vh; /* vh = viewport height */
+    background: #201b2c;
+    display: flex; /* Serve para alinhar os conteúdos internos lado a lado */
+    justify-content: center;
+    align-items: center;
+}
+
+.left-login {
+    width: 50vw;
+    height: 50vh;
+}
